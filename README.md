@@ -1,8 +1,6 @@
-# k8s-dev-env
+# k3d-demo
 
-A demo environment for doing K8s development
-
-Details on how this repo was setup is here:
+A demo environment for doing K8s development. Details on how this repo was setup is here:
 
 * [Setup](docs/setup.md)
 
